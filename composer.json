@@ -1,0 +1,13 @@
+{
+    "name": "malaynayak/s3backup",
+    "description": "Create backup on S3 Bucket",
+    "require": {
+        "aws/aws-sdk-php": "^3.191"
+    },
+    "authors": [
+        {
+            "name": "Malay Nayak",
+            "email": "malay.kanta.nayak@gmail.com"
+        }
+    ]
+}
